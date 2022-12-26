@@ -1,4 +1,11 @@
-## Raspberry Pi as an Automatic Wake on Lan Server
+---
+layout: post
+title: Raspberry Pi as an Automatic Wake on Lan Server
+description: Short guide on how I set up raspberry pi to automatically send WOL command to device
+date: 2022-12-26 16:00:00 -0500
+tags: raspberry-pi bash wol cron
+---
+# Raspberry Pi as an Automatic Wake on Lan Server
 
 I have a recurring issue where power outages result in my NUC (used as an esxi host) powering off.  This devices runs a Home Assistant VM so it is an important part of keeping automations for lights, door locks, thermostat schedules, etc. running. Recently, I was away for a few days, and a power outage occurred and the NUC lost power.  Nothing catastrophic happened, but it is always nice to be able to check in on things at home particularly in the winter. 
 
