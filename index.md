@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Father, Husband, and Engineer.
+Process Automation Engineer by day, avid dabbler by night. 
+Interests include: 3d printing, home automation, mead / wine making, hiking.
+This blog is to record some of what I do and hopefully provide some info that may be useful to others.
