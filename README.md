@@ -1,4 +1,4 @@
-danielwd.github.io
+dandud.github.io
 ===================
 
 GitHub Page
