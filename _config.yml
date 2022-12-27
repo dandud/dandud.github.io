@@ -20,6 +20,9 @@ linkedin_username: "dwdudley"
 #########################################################################################
 theme: "minima"
 
+timezone: Etc/UTC
+future: false
+
 rss: rss
 
 kramdown:
