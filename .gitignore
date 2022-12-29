@@ -1,1 +1,3 @@
 ﻿_site
+# vs code configs
+*.code-workspace
